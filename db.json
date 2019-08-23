@@ -1,0 +1,265 @@
+{
+  "cardsData": [
+    {
+      "id": "0001",
+      "index":1,
+      "creationDate": 1546333200,
+      "bank": "Banamex",
+      "cardType": "Credit",
+      "nickname": "Platino",
+      "bankAvatar": "bnmx",
+      "cardAvatar": "bnmxPlatino",
+      "provider": "mastercard",
+      "accNumber": "09876543",
+      "cardNumber": "0000 0000 0000 0000",
+      "CLABE": "0000 0000 00",
+      "creditLimit": 100,
+      "tipNip": "my first car",
+      "bankWebsite": "www.banamex.com",
+      "tipWebsiteLogin": "ab...yz",
+      "phoneNumber": 5104609876,
+      "dialToHuman": [
+        {
+          "department": "Customer Service",
+          "sequence": [2,2,3,4]
+        },
+        {
+          "department": "Debt Collection",
+          "sequence": [2,3,1]
+        }
+      ],
+      "perks":[
+        {
+          "id": "0001",
+          "type": "Cashback",
+          "note": "5% on restaurants from Jun to Sept"
+        }
+      ],
+      "APR": 24,
+      "anualFee": 75,
+      "cashAdvanceFee": "10% or $5",
+      "internationalFee": 2,
+      "initialBalance": 500,
+      "currentBalance": 400,
+      "cutDay": 5,
+      "dueDate": 25,
+      "notes": [
+        {
+          "id": "0001",
+          "content": "5% on restaurants from Jun to Sept",
+          "importance": "high",
+          "timestamp": 1546333200
+        }
+      ],
+      "transactions": [
+        {
+          "id": "0001",
+          "type": "Payment",
+          "amount": 200,
+          "concept": "Towards concert tickets paid with this card",
+          "timestamp": 1546333200
+        },
+        {
+          "id": "0002",
+          "type": "Spend",
+          "amount": 100,
+          "concept": "Family dinner",
+          "timestamp": 1546333200
+        }
+      ]
+    },
+    {
+      "id": "0002",
+      "index":2,
+      "creationDate": 1546333200,
+      "bank": "Banamex",
+      "cardType": "Debit",
+      "nickname": "Perfiles",
+      "bankAvatar": "bnmx",
+      "cardAvatar": "bnmxPerfiles",
+      "provider": "mastercard",
+      "accNumber": "09876543",
+      "cardNumber": "0000 0000 0000 0000",
+      "CLABE": "0000 0000 00",
+      "creditLimit": 100,
+      "tipNip": "my first car",
+      "bankWebsite": "www.banamex.com",
+      "tipWebsiteLogin": "ab...yz",
+      "phoneNumber": 5104609876,
+      "dialToHuman": [
+        {
+          "department": "Customer Service",
+          "sequence": [2,2,3,4]
+        },
+        {
+          "department": "Debt Collection",
+          "sequence": [2,3,1]
+        }
+      ],
+      "perks":[
+        {
+          "id": "0001",
+          "type": "Cashback",
+          "note": "5% on restaurants from Jun to Sept"
+        }
+      ],
+      "APR": 24,
+      "anualFee": 75,
+      "cashAdvanceFee": "10% or $5",
+      "internationalFee": 2,
+      "initialBalance": 500,
+      "currentBalance": 400,
+      "cutDay": 5,
+      "dueDate": 25,
+      "notes": [
+        {
+          "id": "0001",
+          "content": "5% on restaurants from Jun to Sept",
+          "importance": "high",
+          "timestamp": 1546333200
+        }
+      ],
+      "transactions": [
+        {
+          "id": "0001",
+          "type": "Payment",
+          "amount": 200,
+          "concept": "Towards concert tickets paid with this card",
+          "timestamp": 1546333200
+        },
+        {
+          "id": "0002",
+          "type": "Spend",
+          "amount": 100,
+          "concept": "Family dinner",
+          "timestamp": 1546333200
+        }
+      ]
+    },
+    {
+      "id": "0003",
+      "index":3,
+      "creationDate": 1546333200,
+      "bank": "Banamex",
+      "cardType": "Debit",
+      "nickname": "Premia",
+      "bankAvatar": "bnmx",
+      "cardAvatar": "bnmxPremia",
+      "provider": "mastercard",
+      "accNumber": "09876543",
+      "cardNumber": "0000 0000 0000 0000",
+      "CLABE": "0000 0000 00",
+      "creditLimit": 100,
+      "tipNip": "my first car",
+      "bankWebsite": "www.banamex.com",
+      "tipWebsiteLogin": "ab...yz",
+      "phoneNumber": 5104609876,
+      "dialToHuman": [
+        {
+          "department": "Customer Service",
+          "sequence": [2,2,3,4]
+        },
+        {
+          "department": "Debt Collection",
+          "sequence": [2,3,1]
+        }
+      ],
+      "perks":[
+        {
+          "id": "0001",
+          "type": "Cashback",
+          "note": "5% on restaurants from Jun to Sept"
+        }
+      ],
+      "APR": 24,
+      "anualFee": 75,
+      "cashAdvanceFee": "10% or $5",
+      "internationalFee": 2,
+      "initialBalance": 500,
+      "currentBalance": 400,
+      "cutDay": 5,
+      "dueDate": 25,
+      "notes": [
+        {
+          "id": "0001",
+          "content": "5% on restaurants from Jun to Sept",
+          "importance": "high",
+          "timestamp": 1546333200
+        }
+      ],
+      "transactions": [
+        {
+          "id": "0001",
+          "type": "Payment",
+          "amount": 200,
+          "concept": "Towards concert tickets paid with this card",
+          "timestamp": 1546333200
+        },
+        {
+          "id": "0002",
+          "type": "Spend",
+          "amount": 100,
+          "concept": "Family dinner",
+          "timestamp": 1546333200
+        }
+      ]
+    },
+    {
+      "id": "0004",
+      "index":4,
+      "creationDate": 1546333200,
+      "bank": "Santander",
+      "cardType": "Credit",
+      "nickname": "Aeromexico",
+      "bankAvatar": "santander",
+      "cardAvatar": "santanderAeromexico",
+      "provider": "visa",
+      "accNumber": "09876543",
+      "cardNumber": "0000 0000 0000 0000",
+      "CLABE": "0000 0000 00",
+      "creditLimit": 100,
+      "tipNip": "my first pet",
+      "bankWebsite": "www.banamex.com",
+      "tipWebsiteLogin": "ab...yz",
+      "phoneNumber": 5104609876,
+      "dialToHuman": [
+        {
+          "department": "Debt Collection",
+          "sequence": [2,3,1]
+        }
+      ],
+      "perks":[
+        {
+          "id": "0002",
+          "type": "Miles",
+          "note": "$1 = 1 Mile"
+        }
+      ],
+      "APR": 12,
+      "anualFee": 0,
+      "cashAdvanceFee": "10% or $5",
+      "internationalFee": 0,
+      "initialBalance": 1000,
+      "currentBalance": 200,
+      "cutDay": 5,
+      "dueDate": 25,
+      "notes": [
+        {
+          "id": "0002",
+          "content": "Use miles before 2020",
+          "importance": "high",
+          "timestamp": 1546333200
+        }
+      ],
+      "transactions": [
+        {
+          "id": "0001",
+          "type": "Payment",
+          "amount": 800,
+          "concept": "Towards plane tickets paid with this card",
+          "timestamp": 1546333200
+        }
+      ]
+    }
+  ]
+}
